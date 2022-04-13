@@ -1,0 +1,11 @@
+#include "../includes/ft.h"
+
+void btree_apply_suffix(t_btree *root, void (*applyf)(void *))
+{
+    if(root)
+    {
+        btree_apply_suffix(root->left, applyf);
+        (applyf)(root->item);
+        btree_apply_suffix(root->right, applyf);
+    }
+}

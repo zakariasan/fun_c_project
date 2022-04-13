@@ -1,0 +1,1006 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.29)  5 APR 2022 03:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./includes/ft.h
+(./includes/ft.h
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     ifndef __FT_H__
+? Q
+OK, entering \batchmode...
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 #i
+      fndef __FT_H__
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 #ifndef _
+             _FT_H__
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 #ifndef __
+              FT_H__
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.1 #ifndef __FT_H_
+                   _
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 #ifndef __FT_H__
+                    
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ##
+l.2 #
+     define __FT_H__
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.2 #
+     define __FT_H__
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.2 #define __
+              FT_H__
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double subscript.
+l.2 #define __FT_H_
+                   _
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.2 #define __FT_H__
+                    
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ##
+l.3 #
+     include<unistd.h>
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.3 #
+     include<unistd.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.4 #
+     include<stdlib.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.5 #
+     include <sys/types.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.6 #
+     include <sys/stat.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.7 #
+     include <fcntl.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--8
+[]
+ []
+
+
+Overfull \hbox (378.70853pt too wide) in paragraph at lines 1--8
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 t
+     ypedef struct  s_opp
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 typedef struct  s_
+                      opp
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.13 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--13
+[]
+ []
+
+
+Overfull \hbox (137.01186pt too wide) in paragraph at lines 9--13
+[]\OML/cmm/m/it/10 pp[]$ 
+ []
+
+! Too many }'s.
+l.14 }
+                     t_opp;
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 }               t
+                      _opp;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 }               t_
+                       opp;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (37.2875pt too wide) in paragraph at lines 14--15
+[]$[]\OML/cmm/m/it/10 pp\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 t
+      ypedef struct s_list t_list;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 typedef struct s_
+                      list t_list;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--22
+[]
+ []
+
+
+Overfull \hbox (189.32286pt too wide) in paragraph at lines 16--22
+[]\OML/cmm/m/it/10 istt[]ist\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 structs[]ist[]\O
+T1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 t
+      ypedef struct  s_btree
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 typedef struct  s_
+                       btree
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--29
+[]
+ []
+
+
+Overfull \hbox (275.53648pt too wide) in paragraph at lines 23--29
+[]\OML/cmm/m/it/10 tree[]t[]tree\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 v
+      oid    ft_putchar(char c);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 void    ft_
+                putchar(char c);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--63
+[]
+ []
+
+
+Overfull \hbox (153.55588pt too wide) in paragraph at lines 31--63
+[]\OML/cmm/m/it/10 utchar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 charc\OT1/cmr/m/n/10
+ ); \OML/cmm/m/it/10 voidft[]utstr\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/c
+msy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (99.63057pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 str\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]trlen\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (178.95296pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 str\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]utnbr\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 intn\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]wap\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 int \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (27.78891pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 a; int \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (162.98526pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]onv\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 intnbr; intindex; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (121.62141pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]heck[]ase\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (158.13483pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]utnbr[]ase\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 intnb; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (109.76366pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]trcmp\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (39.29634pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; char \OMS/cmsy/m/n/10 ^^C
+
+ []
+
+
+Overfull \hbox (43.18524pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 2); \OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^
+C
+ []
+
+
+Overfull \hbox (64.53606pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 ft[]trcat\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/
+10 ^^C
+ []
+
+
+Overfull \hbox (47.76857pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 dest; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (47.30215pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 src\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^
+^C
+ []
+
+
+Overfull \hbox (71.93425pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 ft[]trncpy\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n
+/10 ^^C
+ []
+
+
+Overfull \hbox (71.24432pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 dest; constchar \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (167.97687pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 src; intn\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]s[]umber\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 charc; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (154.64069pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]heck[]br\OT1/cm
+r/m/n/10 (\OML/cmm/m/it/10 charstr; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (114.33734pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]toi[]ase\OT1/cm
+r/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (42.14125pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 str; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (52.41904pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 base\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 
+^^C
+ []
+
+
+Overfull \hbox (70.5384pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 ft[]trncat\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n
+/10 ^^C
+ []
+
+
+Overfull \hbox (47.76857pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 dest; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (138.44614pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 src; intnb\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]trncmp\OT
+1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (39.29634pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; char \OMS/cmsy/m/n/10 ^^C
+
+ []
+
+
+Overfull \hbox (165.7971pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; unsignedintn\OT1/cmr/m/n/
+10 ); \OML/cmm/m/it/10 voidft[]oreach\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 int \OMS
+/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (148.15805pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 tab; intlength; void\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/
+cmm/m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 int\OT1/cmr/m/n/10 )); \OML/cmm
+/m/it/10 int \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (49.44414pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 ft[]ap\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 int \OMS/cmsy/m/n/10 ^
+^C
+ []
+
+
+Overfull \hbox (192.25168pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 tab; intlength; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/c
+mm/m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 int\OT1/cmr/m/n/10 )); \OML/cmm/
+m/it/10 intft[]ny\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (180.97313pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 tab; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 
+^^C\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 char\OMS/cmsy/m/n/10 ^^
+C\OT1/cmr/m/n/10 )); \OML/cmm/m/it/10 intft[]ount[]f\OT1/cmr/m/n/10 (\OML/cmm/m
+/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (165.84558pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 tab; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 
+^^C\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 char\OMS/cmsy/m/n/10 ^^
+C\OT1/cmr/m/n/10 )); \OML/cmm/m/it/10 intft[]s[]ort\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 int \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (210.39421pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 tab; intlength; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/c
+mm/m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 int; int\OT1/cmr/m/n/10 )); \OML
+/cmm/m/it/10 intft[]toi\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 
+^^C
+ []
+
+
+Overfull \hbox (129.1201pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 str\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]ort[]ordtab\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (51.6864pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 tab\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 cha
+r \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (115.80255pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 ft[]plit[]hitespaces\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (151.18994pt too wide) in paragraph at lines 31--63
+\OML/cmm/m/it/10 str\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]rint[]ords[]abl
+es\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (174.94624pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 tab\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voi
+dft[]dvanced[]ort[]ordtab\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 char \OMS/cmsy/m/n/1
+0 ^^C
+ []
+
+
+Overfull \hbox (711.70152pt too wide) in paragraph at lines 31--63
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 tab; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 
+^^C\OML/cmm/m/it/10 cmp\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 char\OMS/cmsy/m/n/10 
+^^C\OML/cmm/m/it/10 ; char\OMS/cmsy/m/n/10 ^^C\OT1/cmr/m/n/10 )); \OML/cmm/m/it
+/10 voidft[]od\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 inta; intb\OT1/cmr/m/n/10 ); \O
+ML/cmm/m/it/10 voidft[]iv\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 inta; intb\OT1/cmr/m
+/n/10 ); \OML/cmm/m/it/10 voidft[]ul\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 inta; int
+b\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]ub\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 inta; intb\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]dd\OT1/cmr/m/n/10 (\OML
+/cmm/m/it/10 inta; intb\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]sage\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 inta; intb\OT1/cmr/m/n/10 );$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 /
+      /structers
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 t_
+       list *ft_add_link(t_list *list, char *str);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--82
+[]
+ []
+
+
+Overfull \hbox (19.81322pt too wide) in paragraph at lines 64--82
+[]\OML/cmm/m/it/10 ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (70.18176pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]dd[]ink\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/
+m/n/10 ^^C
+ []
+
+
+Overfull \hbox (44.53314pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 list; char \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (112.63797pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 str\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]rint[]ist\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (46.68196pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 list\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/1
+0 ^^C
+ []
+
+
+Overfull \hbox (85.15926pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]reate[]lem\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 void \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (136.4144pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]ist[]ush[]ack\
+OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (71.48474pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist; void \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (141.69759pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 voidft[]ist[]ush[]ront
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (71.48474pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist; void \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (109.95549pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 intft[]ist[]ize\OT1/cm
+r/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (70.09471pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 t[]ist \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (68.36377pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]ist[]ast\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (70.09471pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 t[]ist \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (134.81348pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]ist[]ush[]arams\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 intac; ch
+ar \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (114.55743pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 av\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 void
+ft[]ist[]lear\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (75.09473pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 ); \OML/cmm/m/it
+/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (60.15857pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]ist[]t\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m
+/n/10 ^^C
+ []
+
+
+Overfull \hbox (221.93456pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist; unsignedintnbr\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 
+voidft[]ist[]everse\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^
+C
+ []
+
+
+Overfull \hbox (155.26874pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 ); \OML/cmm/m/it
+/10 voidft[]ist[]oreach\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/1
+0 ^^C
+ []
+
+
+Overfull \hbox (232.94904pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist; void\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/cmm/
+m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 void\OMS/cmsy/m/n/10 ^^C\OT1/cmr/m/
+n/10 )); \OML/cmm/m/it/10 voidft[]ist[]oreach[]f\OT1/cmr/m/n/10 (\OML/cmm/m/it/
+10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (139.8635pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist; void\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/cmm/
+m/it/10 f\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 void\OMS/cmsy/m/n/10 ^^C\OT1/cmr/m/
+n/10 )\OML/cmm/m/it/10 ; void \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (121.8442pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data[]ef; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/i
+t/10 cmp\OT1/cmr/m/n/10 )()); \OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (71.54623pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 ft[]ist[]ind\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (66.48473pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist; void \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (209.04193pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data[]ef; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/i
+t/10 cmp\OT1/cmr/m/n/10 )()); \OML/cmm/m/it/10 voidft[]ist[]emove[]f\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (71.48474pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist; void \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (193.9927pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 data[]ef; int\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/i
+t/10 cmp\OT1/cmr/m/n/10 )()); \OML/cmm/m/it/10 voidft[]ist[]erge\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (76.20584pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 1\OML/cmm/m/it/1
+0 ; t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (137.9388pt too wide) in paragraph at lines 64--82
+\OML/cmm/m/it/10 begin[]ist\OT1/cmr/m/n/10 2); \OML/cmm/m/it/10 voidft[]ist[]or
+t\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t[]ist \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (106.20134pt too wide) in paragraph at lines 64--82
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 begin[]ist; int\OT1/cmr/m/n/10 (\OMS/cmsy/
+m/n/10 ^^C\OML/cmm/m/it/10 cmp\OT1/cmr/m/n/10 )());$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.91 #
+      endif
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 #e
+       ndif
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+)
+! Emergency stop.
+<*> ./includes/ft.h
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 483107
+ 426 string characters out of 5964629
+ 238847 words of memory out of 5000000
+ 15144 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 18i,7n,15p,114b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
